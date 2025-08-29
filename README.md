@@ -45,7 +45,7 @@ This project demonstrates using **Terraform** and **AWS Cloud** to set up **a fu
 output "websiteendpoint" {
   value = aws_s3_bucket.terraform_bucket_website.website_endpoint
 }
-
+```
 
 Notes
 
