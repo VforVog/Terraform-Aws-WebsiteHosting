@@ -1,7 +1,7 @@
 # Terraform AWS Static Website Hosting
 
 ## Project Overview
-This project demonstrates using **Terraform** and **AWS Cloud** to set up **a fully automated static website hosting** on Amazon S3, managed entirely with Terraform. The main objectives are:  
+This project demonstrates using **Terraform** and **AWS Cloud** to set up **a fully automated static website hosting** on Amazon S3, managed entirely with Terraform that you can **destroy and recreate withing seconds!** The main objectives are:  
 
 - Create an **S3 bucket**  
 - Configure the bucket to **host a static website**  
