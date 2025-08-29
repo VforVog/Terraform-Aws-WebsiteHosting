@@ -1,4 +1,4 @@
-# Terraform AWS Static Website Hosting
+# <p align="center">🌐 Terraform AWS Static Website Hosting</p>
 
 ## Project Overview
 This project demonstrates using **Terraform** and **AWS Cloud** to set up **a fully automated static website hosting** on Amazon S3, managed entirely with Terraform that you can **destroy and recreate withing seconds!** The main objectives are:  
@@ -46,7 +46,10 @@ output "websiteendpoint" {
   value = aws_s3_bucket.terraform_bucket_website.website_endpoint
 }
 ```
+<br>
+![Live Demo](gif/gif.gif) 
 
+<br>
 📌 Notes
 
 Terraform AWS provider binary (terraform-provider-aws_v6.11.0_x5) is large and not included in this repository.
