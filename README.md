@@ -47,6 +47,6 @@ output "websiteendpoint" {
 }
 ```
 
-Notes
+📌 Notes
 
 Terraform AWS provider binary (terraform-provider-aws_v6.11.0_x5) is large and not included in this repository.
