@@ -10,7 +10,7 @@ This project demonstrates using **Terraform** and **AWS Cloud** to set up **a fu
 - Retrieve the **website endpoint** to access the site  
 
 ---
-
+ 
 ## Features & Steps
 
 ### 1. Define the Provider
