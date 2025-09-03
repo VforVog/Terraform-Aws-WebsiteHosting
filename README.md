@@ -9,8 +9,7 @@ This project demonstrates using **Terraform** and **AWS Cloud** to set up **a fu
 - Enable **public access** for the bucket  
 - Retrieve the **website endpoint** to access the site  
 
----
- 
+
 ## Features & Steps
 
 ### 1. Define the Provider
