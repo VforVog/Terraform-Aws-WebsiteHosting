@@ -12,7 +12,7 @@ This project demonstrates using **Terraform** and **AWS Cloud** to set up **a fu
 
 ## Features & Steps
 
-### 1. Define the Provider
+### 1. Define the Provider 
 - Create a `provider.tf` file.  
 - Reference the **AWS provider** from the Terraform documentation.  
 - Run `terraform init` to initialize Terraform, download dependencies, and set up API access.  
