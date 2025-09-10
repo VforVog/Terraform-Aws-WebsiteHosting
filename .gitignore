@@ -1,1 +1,4 @@
 terraform.tfstate*
+
+# You should add the star * at the end when adding terraform.tfstate to your .gitignore file. This ensures that all related files—such as terraform.tfstate, terraform.tfstate.backup, and any future state files like terraform.tfstate.old—are ignored.
+
